@@ -10,7 +10,7 @@ Symoon
 
 ### 最新
 
-* [FaskApi使用](https://www.simplerfroze.com/articles/2019/11/18/1574059884992.html)
+* [FaskAPI简单使用](https://www.simplerfroze.com/articles/2019/11/18/1574059884992.html)
 * [我在 GitHub 上的开源项目](https://www.simplerfroze.com/my-github-repos)
 * [新的起点](https://www.simplerfroze.com/articles/2019/11/15/1573810230805.html)
 
