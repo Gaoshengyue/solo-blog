@@ -10,6 +10,8 @@ Symoon
 
 ### 最新
 
+* [Go打包动态库，python调用](https://www.simplerfroze.com/articles/2019/11/27/1574846078998.html)
+* [一键启动多个服务](https://www.simplerfroze.com/articles/2019/11/27/1574820026498.html)
 * [FaskAPI简单使用](https://www.simplerfroze.com/articles/2019/11/18/1574059884992.html)
 * [我在 GitHub 上的开源项目](https://www.simplerfroze.com/my-github-repos)
 * [新的起点](https://www.simplerfroze.com/articles/2019/11/15/1573810230805.html)
