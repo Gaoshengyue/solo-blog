@@ -10,6 +10,12 @@ Symoon
 
 ### 最新
 
+* [数据中台设计--私](https://www.simplerfroze.com/articles/2021/07/01/1625108354201.html)
+* [Nginx-Manager使用](https://www.simplerfroze.com/articles/2021/07/01/1625107615856.html)
+* [之前进行过的贷超平台调研分析](https://www.simplerfroze.com/articles/2021/07/01/1625105775479.html)
+* [贷超平台系统设计](https://www.simplerfroze.com/articles/2021/07/01/1625103947853.html)
+* [NLP前世今生](https://www.simplerfroze.com/articles/2021/07/01/1625103450560.html)
+* [数据库发展历程整理](https://www.simplerfroze.com/articles/2021/07/01/1625103241750.html)
 * [NestJs搭建从零开始(一)](https://www.simplerfroze.com/articles/2021/06/30/1625019654753.html)
 * [模仿JAVA DTO概念的实现的包PyDto](https://www.simplerfroze.com/articles/2020/08/27/1598516800367.html)
 * [接触企业级框架SpringBoot(二)](https://www.simplerfroze.com/articles/2020/05/11/1589185451031.html)
@@ -24,10 +30,6 @@ Symoon
 * [简单的爬虫程序](https://www.simplerfroze.com/articles/2019/12/02/1575281409132.html)
 * [规划规划未来规划!](https://www.simplerfroze.com/articles/2019/11/29/1575019589725.html)
 * [Go打包动态库，python调用](https://www.simplerfroze.com/articles/2019/11/27/1574846078998.html)
-* [一键启动多个服务](https://www.simplerfroze.com/articles/2019/11/27/1574820026498.html)
-* [FastAPI简单使用](https://www.simplerfroze.com/articles/2019/11/18/1574059884992.html)
-* [我在 GitHub 上的开源项目](https://www.simplerfroze.com/my-github-repos)
-* [新的起点](https://www.simplerfroze.com/articles/2019/11/15/1573810230805.html)
 
 
 
