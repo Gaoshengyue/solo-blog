@@ -13,7 +13,7 @@ Symoon
 * [信息安全规范文档](https://www.simplerfroze.com/articles/2021/08/26/1629959055368.html)
 * [数据中台设计--私](https://www.simplerfroze.com/articles/2021/07/01/1625108354201.html)
 * [Nginx-Manager使用](https://www.simplerfroze.com/articles/2021/07/01/1625107615856.html)
-* [之前进行过的贷超平台调研分析](https://www.simplerfroze.com/articles/2021/07/01/1625105775479.html)
+* [贷超平台调研分析](https://www.simplerfroze.com/articles/2021/07/01/1625105775479.html)
 * [贷超平台系统设计](https://www.simplerfroze.com/articles/2021/07/01/1625103947853.html)
 * [NLP前世今生](https://www.simplerfroze.com/articles/2021/07/01/1625103450560.html)
 * [数据库发展历程整理](https://www.simplerfroze.com/articles/2021/07/01/1625103241750.html)
