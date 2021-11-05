@@ -10,6 +10,7 @@ Symoon
 
 ### 最新
 
+* [微信体系调研](https://www.simplerfroze.com/articles/2021/11/04/1636010043579.html)
 * [信息安全规范文档](https://www.simplerfroze.com/articles/2021/08/26/1629959055368.html)
 * [数据中台设计--私](https://www.simplerfroze.com/articles/2021/07/01/1625108354201.html)
 * [Nginx-Manager使用](https://www.simplerfroze.com/articles/2021/07/01/1625107615856.html)
@@ -29,7 +30,6 @@ Symoon
 * [K8S部署Dashboard](https://www.simplerfroze.com/articles/2019/12/19/1576742289921.html)
 * [单机版K8S部署(Ubuntu)](https://www.simplerfroze.com/articles/2019/12/18/1576660459097.html)
 * [简单的爬虫程序](https://www.simplerfroze.com/articles/2019/12/02/1575281409132.html)
-* [规划规划未来规划!](https://www.simplerfroze.com/articles/2019/11/29/1575019589725.html)
 
 
 
