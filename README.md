@@ -11,8 +11,8 @@ Symoon
 ### 最新
 
 * [微信体系调研](https://www.simplerfroze.com/articles/2021/11/04/1636010043579.html)
-* [信息安全规范文档](https://www.simplerfroze.com/articles/2021/08/26/1629959055368.html)
-* [数据中台设计--私](https://www.simplerfroze.com/articles/2021/07/01/1625108354201.html)
+* [信息文档](https://www.simplerfroze.com/articles/2021/08/26/1629959055368.html)
+* [数据中台参考设计--私](https://www.simplerfroze.com/articles/2021/07/01/1625108354201.html)
 * [Nginx-Manager使用](https://www.simplerfroze.com/articles/2021/07/01/1625107615856.html)
 * [贷超平台调研分析](https://www.simplerfroze.com/articles/2021/07/01/1625105775479.html)
 * [贷超平台系统设计](https://www.simplerfroze.com/articles/2021/07/01/1625103947853.html)
