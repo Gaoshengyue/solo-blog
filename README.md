@@ -10,6 +10,7 @@ symoon笔记
 
 ### 最新
 
+* [基于Perl的Cgi本地服务测试部署(根据请求生命周期)](https://www.simplerfroze.com/articles/2023/09/13/1694599532453.html)
 * [中英文用词拼写纠正方案](https://www.simplerfroze.com/articles/2023/04/14/1681453245868.html)
 * [微信体系调研](https://www.simplerfroze.com/articles/2021/11/04/1636010043579.html)
 * [信息文档](https://www.simplerfroze.com/articles/2021/08/26/1629959055368.html)
@@ -29,7 +30,6 @@ symoon笔记
 * [数据工程(一)](https://www.simplerfroze.com/articles/2019/12/31/1577762460228.html)
 * [数据ETL平台Streamsets简单应用](https://www.simplerfroze.com/articles/2019/12/20/1576837361453.html)
 * [K8S部署Dashboard](https://www.simplerfroze.com/articles/2019/12/19/1576742289921.html)
-* [单机版K8S部署(Ubuntu)](https://www.simplerfroze.com/articles/2019/12/18/1576660459097.html)
 
 
 
