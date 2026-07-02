@@ -10,6 +10,7 @@ symoon笔记
 
 ### 最新
 
+* [Apache httpd + CGI + Perl 是怎么跑起来的](https://www.symoon.icu/articles/2026/07/02/1782959944877.html)
 * [测试](https://www.symoon.icu/articles/2024/03/13/1710313305468.html)
 * [基于Perl的Cgi本地服务测试部署(根据请求生命周期)](https://www.symoon.icu/articles/2023/09/13/1694599532453.html)
 * [中英文用词拼写纠正方案](https://www.symoon.icu/articles/2023/04/14/1681453245868.html)
@@ -29,7 +30,6 @@ symoon笔记
 * [K8S部署Mysql(NFS持久化)](https://www.symoon.icu/articles/2020/01/19/1579415277373.html)
 * [数据工程(二)：环境准备](https://www.symoon.icu/articles/2019/12/31/1577773248350.html)
 * [数据工程(一)](https://www.symoon.icu/articles/2019/12/31/1577762460228.html)
-* [数据ETL平台Streamsets简单应用](https://www.symoon.icu/articles/2019/12/20/1576837361453.html)
 
 
 
