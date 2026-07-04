@@ -10,6 +10,7 @@ symoon笔记
 
 ### 最新
 
+* [病毒文件识别：从哈希到沙箱的完整检测链路](https://www.symoon.icu/articles/2026/07/04/1783127573511.html)
 * [页面钓鱼：攻击花样、检测代码与防御实操](https://www.symoon.icu/articles/2026/07/03/1783040715945.html)
 * [Apache httpd + CGI + Perl 是怎么跑起来的](https://www.symoon.icu/articles/2026/07/02/1782959944877.html)
 * [测试](https://www.symoon.icu/articles/2024/03/13/1710313305468.html)
@@ -29,7 +30,6 @@ symoon笔记
 * [接触企业级框架SpringBoot(一)](https://www.symoon.icu/articles/2020/03/13/1584093157241.html)
 * [K8S部署Redis主从](https://www.symoon.icu/articles/2020/01/19/1579418881265.html)
 * [K8S部署Mysql(NFS持久化)](https://www.symoon.icu/articles/2020/01/19/1579415277373.html)
-* [数据工程(二)：环境准备](https://www.symoon.icu/articles/2019/12/31/1577773248350.html)
 
 
 
