@@ -10,6 +10,7 @@ symoon笔记
 
 ### 最新
 
+* [浏览器自动化里，怎么把页面按钮一网打尽并跟进跳转](https://www.symoon.icu/articles/2026/07/06/1783300140194.html)
 * [Office 文件恶意检测：从静态分析到行为溯源](https://www.symoon.icu/articles/2026/07/05/1783217784975.html)
 * [病毒文件识别：从哈希到沙箱的完整检测链路](https://www.symoon.icu/articles/2026/07/04/1783127573511.html)
 * [页面钓鱼：攻击花样、检测代码与防御实操](https://www.symoon.icu/articles/2026/07/03/1783040715945.html)
@@ -29,7 +30,6 @@ symoon笔记
 * [模仿JAVA DTO概念的实现的包PyDto](https://www.symoon.icu/articles/2020/08/27/1598516800367.html)
 * [接触企业级框架SpringBoot(二)](https://www.symoon.icu/articles/2020/05/11/1589185451031.html)
 * [接触企业级框架SpringBoot(一)](https://www.symoon.icu/articles/2020/03/13/1584093157241.html)
-* [K8S部署Redis主从](https://www.symoon.icu/articles/2020/01/19/1579418881265.html)
 
 
 
