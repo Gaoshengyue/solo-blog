@@ -10,6 +10,7 @@ symoon笔记
 
 ### 最新
 
+* [二维码和 OCR：从生成到识别的实战代码](https://www.symoon.icu/articles/2026/07/09/1783562029009.html)
 * [如何设计一个支付路由系统](https://www.symoon.icu/articles/2026/07/08/1783474806188.html)
 * [浏览器自动化里，怎么把页面按钮一网打尽并跟进跳转](https://www.symoon.icu/articles/2026/07/06/1783300140194.html)
 * [Office 文件恶意检测：从静态分析到行为溯源](https://www.symoon.icu/articles/2026/07/05/1783217784975.html)
@@ -29,7 +30,6 @@ symoon笔记
 * [数据库发展历程整理](https://www.symoon.icu/articles/2021/07/01/1625103241750.html)
 * [NestJs搭建从零开始(一)](https://www.symoon.icu/articles/2021/06/30/1625019654753.html)
 * [模仿JAVA DTO概念的实现的包PyDto](https://www.symoon.icu/articles/2020/08/27/1598516800367.html)
-* [接触企业级框架SpringBoot(二)](https://www.symoon.icu/articles/2020/05/11/1589185451031.html)
 
 
 
