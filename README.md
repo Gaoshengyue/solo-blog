@@ -10,6 +10,7 @@ symoon笔记
 
 ### 最新
 
+* [AI 注入攻防实录：一句"忽略之前的指令"，怎么就把大模型忽悠瘸了](https://www.symoon.icu/articles/2026/08/28/1787899859070.html)
 * [微信小程序三板斧实战：登录、支付、订阅消息一次讲透](https://www.symoon.icu/articles/2026/07/30/1785373412930.html)
 * [别让解压变成“炸包”——防止解压类漏洞的几个姿势](https://www.symoon.icu/articles/2026/07/10/1783646634491.html)
 * [二维码和 OCR：从生成到识别的实战代码](https://www.symoon.icu/articles/2026/07/09/1783562029009.html)
@@ -29,7 +30,6 @@ symoon笔记
 * [贷超平台调研分析](https://www.symoon.icu/articles/2021/07/01/1625105775479.html)
 * [贷超平台系统设计](https://www.symoon.icu/articles/2021/07/01/1625103947853.html)
 * [NLP前世今生](https://www.symoon.icu/articles/2021/07/01/1625103450560.html)
-* [数据库发展历程整理](https://www.symoon.icu/articles/2021/07/01/1625103241750.html)
 
 
 
